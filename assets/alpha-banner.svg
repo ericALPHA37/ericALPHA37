@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="340" viewBox="0 0 1584 340" role="img" aria-labelledby="title desc">
+<title id="title">Éric ALPHA — Building Beyond Limits</title>
+<desc id="desc">Black and gold banner representing health, artificial intelligence, digital innovation and Africa.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050505"/><stop offset=".55" stop-color="#11100d"/><stop offset="1" stop-color="#030303"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff0ad"/><stop offset=".35" stop-color="#e9bb50"/><stop offset="1" stop-color="#9b6818"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#d4a63c" stop-opacity=".2"/><stop offset="1" stop-color="#d4a63c" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#c69a38" stroke-opacity=".08" stroke-width="1"/></pattern>
+</defs>
+<rect width="1584" height="340" fill="url(#bg)"/>
+<rect width="1584" height="340" fill="url(#grid)"/>
+<ellipse cx="790" cy="175" rx="650" ry="245" fill="url(#glow)"/>
+<path d="M0 294 Q390 210 710 285 T1584 250" fill="none" stroke="url(#gold)" stroke-opacity=".75" stroke-width="2"/>
+<path d="M0 310 Q390 226 710 301 T1584 266" fill="none" stroke="#d4af37" stroke-opacity=".2" stroke-width="1"/>
+<g transform="translate(90 62)">
+  <path d="M58 0 112 103H82L58 58 34 103H4Z" fill="url(#gold)"/>
+  <path d="M31 83H85L99 108H17Z" fill="#0a0a0a"/>
+  <path d="M58 70 71 96H45Z" fill="#d4af37"/>
+</g>
+<text x="250" y="145" fill="#f4f0e7" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="500" letter-spacing="3">ÉRIC <tspan fill="url(#gold)" font-weight="800">ALPHA</tspan></text>
+<text x="255" y="190" fill="#d6d0c4" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="9">BUILDING BEYOND LIMITS</text>
+<line x1="255" y1="216" x2="940" y2="216" stroke="#c99d39" stroke-opacity=".75"/>
+<text x="255" y="260" fill="#f3d37b" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="3">HEALTH  ·  ARTIFICIAL INTELLIGENCE  ·  DIGITAL INNOVATION</text>
+<text x="255" y="300" fill="#e5c36c" font-family="Georgia, serif" font-size="20" font-style="italic">Intelligence visible. Machinery invisible.</text>
+<g transform="translate(1160 38)">
+  <path d="M137 5 173 32 168 65 191 85 176 115 165 143 148 171 132 204 108 229 93 215 76 224 64 199 43 179 51 151 29 131 44 109 37 85 58 66 64 43 91 26 112 16Z" fill="#cfaa4c" fill-opacity=".12" stroke="url(#gold)" stroke-width="2.6"/>
+  <path d="M137 5 112 16 91 26 64 43 58 66 37 85 44 109 29 131 51 151 43 179 64 199 76 224 93 215 108 229 132 204 148 171 165 143 176 115 191 85 168 65 173 32Z" fill="none" stroke="#d4af37" stroke-opacity=".45" stroke-dasharray="3 8"/>
+  <g fill="#f2cf70">
+    <circle cx="137" cy="5" r="4"/><circle cx="64" cy="43" r="4"/><circle cx="91" cy="26" r="4"/><circle cx="58" cy="66" r="4"/><circle cx="37" cy="85" r="4"/><circle cx="44" cy="109" r="4"/><circle cx="29" cy="131" r="4"/><circle cx="51" cy="151" r="4"/><circle cx="43" cy="179" r="4"/><circle cx="64" cy="199" r="4"/><circle cx="76" cy="224" r="4"/><circle cx="108" cy="229" r="4"/><circle cx="132" cy="204" r="4"/><circle cx="148" cy="171" r="4"/><circle cx="165" cy="143" r="4"/><circle cx="176" cy="115" r="4"/><circle cx="191" cy="85" r="4"/><circle cx="168" cy="65" r="4"/>
+  </g>
+  <g stroke="#d4af37" stroke-opacity=".6" stroke-width="1.2"><path d="M137 5 91 26 58 66 44 109 51 151 64 199 108 229"/><path d="M64 43 112 16 168 65 176 115 148 171 108 229"/><path d="M37 85 91 26 165 143 76 224"/></g>
+  <text x="225" y="86" fill="#e8c56b" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="4">MOZAMBIQUE</text>
+  <text x="225" y="119" fill="#a9a39a" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">AFRICA · GLOBAL</text>
+  <text x="225" y="187" fill="#d4af37" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">DISCOVER</text>
+  <text x="225" y="216" fill="#d4af37" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">BUILD</text>
+  <text x="225" y="245" fill="#d4af37" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">EXECUTE</text>
+</g>
+</svg>

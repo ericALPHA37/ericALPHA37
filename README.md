@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/alpha-banner.svg" width="100%" alt="Éric ALPHA — Building beyond limits" />
+</p>
+
 # Éric Xavier | Éric ALPHA
 
 ### Pharmacist · Public Health Professional · AI & Digital Innovation
@@ -10,9 +14,11 @@ Based in Mozambique 🇲🇿
 
 ## About
 
-I am a Mozambican pharmacist working in public health and pharmaceutical supply chain management. My professional work has shaped my interest in using data, technology and better-designed systems to solve complex, real-world problems.
+I am a Mozambican pharmacist working in public health and pharmaceutical supply chain management. My professional experience includes quantification, procurement and the design of stronger health-system processes.
 
-I am currently exploring applied artificial intelligence, intelligent agents, digital products and automation — with a practical focus on solutions that can create value in African contexts.
+That work has shaped my interest in using data, technology and better-designed systems to solve complex, real-world problems.
+
+I am exploring applied artificial intelligence, intelligent agents, digital products and automation — with a practical focus on solutions that can create value in African contexts.
 
 I believe technology matters most when it makes people's work clearer, faster and more effective.
 
@@ -21,15 +27,17 @@ I believe technology matters most when it makes people's work clearer, faster an
 - **Public Health & Pharmacy** — pharmaceutical supply chains, quantification, procurement and health systems.
 - **Artificial Intelligence** — applied AI, AI agents, personal knowledge systems and human-centred automation.
 - **Digital Innovation** — digital products, low-code development, workflow design and practical software experiments.
-- **Entrepreneurship** — building ideas into useful products and sustainable initiatives with African relevance.
+- **Entrepreneurship** — turning ideas into useful products and sustainable initiatives with African relevance.
 
 ## Current Projects
 
-### JARVIS ALPHA
-Exploring a personal cognitive operating system that connects knowledge, memory, tools and decision-making to support focused execution.
+### [ALL-ALPHA](https://ericalpha37.github.io/all-alpha/)
 
-### ALL-ALPHA
-Developing a digital ecosystem around knowledge, innovation, entrepreneurship and opportunities with an African perspective.
+A digital knowledge and publishing ecosystem focused on learning, innovation, entrepreneurship and opportunities with an African perspective.
+
+### JARVIS ALPHA
+
+A personal cognitive operating system in development — exploring how knowledge, memory, tools and decision-making can work together to support focused execution.
 
 ## Principles
 
@@ -48,9 +56,9 @@ Artificial Intelligence · AI Agents · Automation · Low-Code Development · Py
 
 ## Português
 
-Sou farmacêutico moçambicano e profissional de saúde pública, com experiência na área da cadeia de abastecimento farmacêutico, quantificação e procurement.
+Sou farmacêutico moçambicano e profissional de saúde pública, com experiência na cadeia de abastecimento farmacêutico, quantificação e procurement.
 
-Tenho particular interesse na aplicação prática da inteligência artificial, no desenvolvimento de sistemas digitais e na criação de soluções que respondam a problemas reais.
+Interesso-me pela aplicação prática da inteligência artificial, pelo desenvolvimento de sistemas digitais e pela criação de soluções que respondam a problemas reais.
 
 Quero contribuir para um futuro em que conhecimento, tecnologia e execução disciplinada se traduzam em resultados concretos para Moçambique, África e o mundo.
 
